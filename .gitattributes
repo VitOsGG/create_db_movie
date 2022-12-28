@@ -1,0 +1,4 @@
+*.db filter=lfs diff=lfs merge=lfs -text
+inter_movie_fact.db filter=lfs diff=lfs merge=lfs -text
+movie_db_on_mood.db filter=lfs diff=lfs merge=lfs -text
+movie_db_test.db filter=lfs diff=lfs merge=lfs -text
